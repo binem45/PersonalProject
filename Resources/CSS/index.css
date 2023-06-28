@@ -1,0 +1,21 @@
+.banner {
+  background-color: grey;
+  color: white;
+  margin-top: 75px;
+  text-align: center;
+  padding: 100px 0px;
+}
+
+#imagesample1 {
+  width: 900px;
+  height: 300px;
+}
+
+#gritter {
+  color: purple;
+  font-size: 100px;
+}
+
+.bold {
+  font-weight: 900;
+}
